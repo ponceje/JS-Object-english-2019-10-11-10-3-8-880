@@ -7,6 +7,8 @@
   - Modify the value of name attribute as Peter; 
   - Delete name attribute of user. 
  
+ STUDENT'S NOTE: Program is on main_1.js
+
 2. Program and observe the following requirements: calculate how many pieces of fruit there are in the fruit object and the output should be 50. 
 
 ```
@@ -17,5 +19,7 @@ peach: 10
 };
 // write your code here...
 ```
+ STUDENT'S NOTE: Program is on main_2.js
+
 ## Requirements
 Create a js document and complete the above requirements.
